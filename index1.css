@@ -1,0 +1,319 @@
+.page1{ 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page1 img{ 
+    position: absolute;
+}
+.page1 img:nth-of-type(1){ 
+    width: 2.5rem;
+    height:2.5rem;
+    left: 2.3rem;
+    top: 1.5rem;
+    border-radius: 1rem;
+    position: relative;
+}
+.page1 p{ 
+    font-size: .7rem;
+    color: crimson;
+    text-align: center;
+    line-height: 1.5rem;
+    position: absolute;
+    top: 5.7rem;
+    left: 2.3rem;
+}
+.page1 p span{ font-size:1rem;}
+.page2{ 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page2 img{ 
+    position: absolute;
+}
+.page2 img{ 
+    width: 2.5rem;
+    height:2.5rem;
+    left: 1rem;
+    top: 2rem;
+    position: relative;
+    border-radius: 1.2rem;
+    position: relative;
+
+}
+.page2 p{ 
+    font-size: .5rem;
+    color: darkorange;
+    position: absolute;
+    left: 1.8rem;
+    top: 5rem;
+    text-align: center;
+    line-height: 1.2rem;
+}
+.page2 p span{ 
+    font-size: .6rem;
+    color:red;
+
+}
+.page3{ 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page3 .one { 
+    box-sizing: border-box;
+    width: 0.8rem;
+    height: 5rem;
+    color: crimson;
+    position: absolute;
+    top: -4rem;
+    right:1.8rem;
+}
+.page3 .one p { 
+    font-size:0.7rem;
+    color: crimson;
+    line-height: 1rem;
+}
+.page3 img{ 
+    position: absolute;
+}
+.page3 img{ 
+    width: 4rem;
+    height:5rem;
+    left: .7rem;
+    top: 1.8rem;
+    position: relative;
+    border-radius: 1.2rem;
+}
+.page3 p { 
+    font-size: .31rem;
+    color: darkslategray;
+    position: absolute;
+    left: 0.35rem;
+    right: 0.35rem;
+    top:7.4rem;
+    text-align:left;
+    text-indent: 2em;
+    line-height: .5rem;
+}
+.page4 { 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page4 .two { 
+    box-sizing: border-box;
+    width: 0.8rem;
+    height: 5rem;
+    color: crimson;
+    position: absolute;
+    top: -4rem;
+    right:1.8rem;
+}
+.page4 .two p { 
+    font-size:0.7rem;
+    color: crimson;
+    line-height: 1rem;
+}
+.page4 img { 
+    position: absolute;
+}
+.page4 img { 
+    width: 4rem;
+    height:5rem;
+    left: .7rem;
+    top: 1.8rem;
+    position: relative;
+    border-radius: 1.2rem;
+}
+.page4 p { 
+    font-size: .31rem;
+    color: darkslategray;
+    position: absolute;
+    left: 0.35rem;
+    right: 0.35rem;
+    top:7.4rem;
+    text-align:left;
+    text-indent: 2em;
+    line-height: .5rem;
+}
+.page5 { 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page5 img{ 
+    position: absolute;
+}
+.page5 img{ 
+    width: 6rem;
+    height:7rem;
+    left: .7rem;
+    top: 1.8rem;
+    position: relative;
+    border-radius: 1.2rem;
+}
+.page5  p { 
+    font-size:0.9rem;
+    color: crimson;
+    line-height: 1rem;
+    position: absolute;
+    left: 2.5rem;
+    top: 10rem;
+}
+.page6 { 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page6 img{ 
+    position: absolute;
+}
+.page6 img{ 
+    width: 6.5rem;
+    height:9.5rem;
+    left: .5rem;
+    right: .5;
+    top: 1.5rem;
+    position: relative;
+    border-radius: 1.2rem;
+}
+.page6 p:nth-of-type(1){
+    position: absolute;
+    left: 1rem;
+    top:.7rem;
+    font-size: .5rem;
+    color: crimson;
+}
+.page6 p:nth-of-type(2){
+    position: absolute;
+    left: 2.7rem;
+    top:1.8rem;
+    font-size: .7rem;
+    color: crimson;
+}
+.page6 p:nth-of-type(3){
+    position: absolute;
+    left: 2.3rem;
+    top:9.5rem;
+    font-size: .5rem;
+    color: crimson;
+}
+.page6 p:nth-of-type(4){
+    position: absolute;
+    left: 3.6rem;
+    top:3rem;
+    font-size: .8rem;
+    color: crimson;
+}
+.page6 p:nth-of-type(5){
+    position: absolute;
+    left: 3rem;
+    top:4.8rem;
+    font-size: .6rem;
+    color: darkorange;
+}
+.page6 p:nth-of-type(6){
+    position: absolute;
+    left: 3rem;
+    top:5.8rem;
+    font-size: .5rem;
+    color: crimson;
+}
+.page6 p:nth-of-type(7){
+    position: absolute;
+    left: 3rem;
+    top:7rem;
+    font-size: .7rem;
+    color: floralwhite;
+}
+.page6 p:nth-of-type(8){
+    position: absolute;
+    left:1.6rem;
+    top:8rem;
+    font-size: .6rem;
+    color: dodgerblue;
+}
+.page7 { 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page7 img{ 
+    position: absolute;
+}
+.page7 img:nth-of-type(1){ 
+    width: 6rem;
+    height:7rem;
+    left: .7rem;
+    top: 3rem;
+    position: relative;
+    border-radius: 1.2rem;
+}
+.page7 p {
+    position: absolute;
+    left: 1rem;
+    top:1rem;
+    font-size: .8rem;
+    color: crimson;
+}
+.page8 { 
+    background: url(image1/5.bj.jpg) no-repeat;
+    background-size: cover;
+      }
+.page8 img{ 
+        position: absolute;
+    }
+.page8 img{ 
+        width: 5.6rem;
+        height:5rem;
+        left: .7rem;
+        top: 1.8rem;
+        position: relative;
+        border-radius: 1.2rem;
+    }
+.page8 p { 
+        font-size: .31rem;
+        color: darkslateblue;
+        position: absolute;
+        left: 0.35rem;
+        right: 0.35rem;
+        top:7.4rem;
+        text-align:left;
+        text-indent: 2em;
+        line-height: .5rem;
+    }
+    .page9 { 
+        background: url(image1/5.bj.jpg) no-repeat;
+        background-size: cover;
+          }
+    .page9 img { 
+            position: absolute;
+        }
+    .page9 img { 
+            width: 5.6rem;
+            height:5rem;
+            left: 1rem;
+            top: 1.6rem;
+            position: relative;
+            border-radius: 1.2rem;
+        }
+    .page9 p:nth-of-type(1) { 
+            font-size: .6rem;
+            color: darkslateblue;
+            position: absolute;
+            left: 1.6rem;
+            top:8.4rem;
+            text-align:center;
+            line-height: 3rem;
+        }
+    .page9 p:nth-of-type(1) span{ 
+        font-size: .7rem;
+        color: crimson;
+    }
+     .page9 p:nth-of-type(2) { 
+            font-size: .7rem;
+            color: darkslateblue;
+            position: absolute;
+            left: 1.1rem;
+            top:7.9rem;
+            text-align:center;
+            line-height: 1.5rem;
+        }
+
+
+
